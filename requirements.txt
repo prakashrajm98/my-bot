@@ -1,4 +1,4 @@
 ccxt
 pandas
 requests
-
+python-binance
